@@ -7,3 +7,5 @@ Hello world!
 Write some words here!
 
 Testing
+
+Theorist: [[Carl Rogers]]
