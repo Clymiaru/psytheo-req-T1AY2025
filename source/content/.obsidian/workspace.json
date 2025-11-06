@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Holistic Dynamic Theory.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Holistic Dynamic Theory"
             }
           }
         ],
@@ -241,18 +241,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42cfa8ca8c704161",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Abraham Maslow.md",
-    "Rollo May.md",
-    "Carl Rogers.md",
-    "index.md",
     "Existential Psychology.md",
+    "Rollo May.md",
     "Holistic Dynamic Theory.md",
     "Person-Centered Theory.md",
-    "20251106.md",
-    "category-folder/Some note.md",
+    "Carl Rogers.md",
+    "Abraham Maslow.md",
     "category-folder/index.md",
+    "category-folder/Some note.md",
+    "index.md",
+    "20251106.md",
     "category-folder"
   ]
 }
