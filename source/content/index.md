@@ -1,11 +1,12 @@
 ---
-title: My GitHub Pages Notebook!
+title: Home
 ---
 
-Hello world!
+# Theories of Personality
 
-Write some words here!
+## Humanistic-Existential Theories
+[[Person-Centered Theory]] by [[Carl Rogers]]
 
-Testing
+[[Holistic Dynamic Theory]] by [[Abraham Maslow]]
 
-Theorist: [[Carl Rogers]]
+[[Existential Psychology]] by [[Rollo May]]
